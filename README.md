@@ -1,4 +1,6 @@
 # Lab 0 - Baseline
+![Tools](./docs/tools.jpeg)
+Photo by <a href="https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cesar Carlevarino Aragon</a> on <a href="https://unsplash.com/s/photos/tools?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Purpose & Goal
 - Make sure all relevant Git tools are working on your machine
