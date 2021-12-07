@@ -92,4 +92,4 @@ If you don't manage to authenticate and instead get `Permissioned denied`, follo
 Congratulations, you have now completed the first assignment and gotten your Git baseline in place! 🎉
 
 [1]: http://git-scm.com/downloads "Git"
-[2]: (https://docs.github.com/en/authentication/connecting-to-github-with-ssh "SSH"
+[2]: https://docs.github.com/en/authentication/connecting-to-github-with-ssh "SSH"
