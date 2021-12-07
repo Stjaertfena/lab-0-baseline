@@ -1,5 +1,5 @@
 # Lab 0 - Baseline
-As with anything, getting a solid baseline to start of from generally sets you up for success –  the same goes for Git. This assignment is designed to allow you to verify that you have all the tools you need.
+As with anything, getting a solid baseline to start off from generally sets you up for success –  the same goes for Git! This assignment is designed to allow you to verify that you have all the tools you need.
 
 ![Tools](./docs/tools.jpeg)
 Photo by <a href="https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cesar Carlevarino Aragon</a> on <a href="https://unsplash.com/s/photos/tools?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -10,8 +10,8 @@ Photo by <a href="https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medi
   - [gitk](http://git-scm.com/docs/gitk)
   - [git-gui](http://git-scm.com/docs/git-gui)
 - Verify auto complete for Git CLI is working
-- Have [SSH connectivity][2] with GitHub
 - Verify local Git config is set up
+- Have [SSH connectivity][2] with GitHub
 
 ## Expectations
 - Work on your own machine, but feel free to help each other out!
@@ -41,7 +41,7 @@ If you see above output you are all good and can continue to the next section. O
   ![Git gui](./docs/git-gui.png)
   If Git GUI does not open, you need to trouble shoot what might be wrong. =)
 
-All fundamental programs are now verified, now let's level up by enabling auto complte for Git CLI!
+All fundamental programs are now verified, now let's level up by enabling auto complete for Git CLI!
 
 ### Configuring CLI auto complete
 1. Verify if your Git CLI auto complete is already working by typing `git sw` in your terminal and hit **_tab_** – if everything is working it should automatically complete you command to `git switch`.
@@ -72,7 +72,7 @@ If not, set them up accordingly:
 ```
 $ git config --global user.name "Donald Duck"
 $ git config --global user.email "donald.duck@duckburg.com"
-$ git config --global init.defaultBranch "main"
+$ git config --global init.defaultbranch "main"
 ```
 1. Verify through step 1 that all settings now looks as expected.
 
