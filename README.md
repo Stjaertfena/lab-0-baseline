@@ -1,4 +1,4 @@
-# Lab 0 - Baseline
+# Assignment 0 - Getting your baseline
 As with anything, getting a solid baseline to start off from generally sets you up for success –  the same goes for Git! This assignment is designed to allow you to verify that you have all the tools you need.
 
 ![Tools](./docs/tools.jpeg)
