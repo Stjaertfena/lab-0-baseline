@@ -31,7 +31,7 @@ If you see above output you are all good and can continue to the next section. O
 
 1. With `git` installed, verify that `gitk` and `git-gui` is also working (they are shipped as part of the Git installation).
 
-  1. Navigate into an existing local repository (if you don't have any other repo cloned, this repo works.) using the terminal.
+  1. Navigate into an existing local repository using the terminal (if you don't have any existing local repo, just initialize a new using `$ git init` from a directory of your choice).
 
   1. Type: `$ gitk`, if everything is working you should see something like this.
   ![Gitk](./docs/gitk.png)
