@@ -20,7 +20,7 @@ Photo by <a href="https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medi
 Prepping your machine with the tools that you need!
 
 ### Installing Git (gitk & git-gui)
-1. Verify if Git is installed or not, and if you are running the latest version using:
+1. Verify if Git is installed or not, and if you are running the [latest version](https://en.wikipedia.org/wiki/Git#Releases) using:
 ```
 $ git --version
 git version 2.34.1
