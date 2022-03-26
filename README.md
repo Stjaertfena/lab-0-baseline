@@ -5,13 +5,13 @@ As with anything, getting a solid baseline to start off from generally sets you 
 Photo by <a href="https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Cesar Carlevarino Aragon</a> on <a href="https://unsplash.com/s/photos/tools?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Purpose & Goal
-- Make sure all relevant Git tools are working on your machine
+- [ ] Make sure all relevant Git tools are working on your machine
   - [Git > v2.34.0][1]
   - [gitk](http://git-scm.com/docs/gitk)
   - [git-gui](http://git-scm.com/docs/git-gui)
-- Verify auto complete for Git CLI is working
-- Verify local Git config is set up
-- Have [SSH connectivity][2] with GitHub
+- [ ] Verify auto complete for Git CLI is working
+- [ ] Verify local Git config is set up
+- [ ] Have [SSH connectivity][2] with GitHub
 
 ## Expectations
 - Work on your own machine, but feel free to help each other out!
