@@ -44,7 +44,7 @@ If you see above output you are all good and can continue to the next section. O
 All fundamental programs are now verified, now let's level up by enabling auto complete for Git CLI!
 
 ### Configuring CLI auto complete
-1. Verify if your Git CLI auto complete is already working by typing `git sw` in your terminal and hit **_tab_** – if everything is working it should automatically complete you command to `git switch`.
+1. Verify if your Git CLI auto complete is already working by typing `git sw` in your terminal and hit **_tab_** – if everything is working it should automatically complete your command to `git switch`.
 
 1. If this is not the case you need to enable auto complete for your particular system, whether it's `bash`, `zsh`, `Windows Console`, `Windows Powershell`, or `Cygwin`. Google is your best friend here! =)
 
@@ -62,10 +62,10 @@ In this case we're interested in verifying your "global" config, which is applic
 ```
 $ git config --list --global
 ```
-1. Make sure the following attributes are set.
+1. Make sure the following attributes are set with your own details.
 ```
-user.name=Alexis Määttä Vinkler
-user.email=alexis@flatwave.se
+user.name=Donald Duck
+user.email=donald.duck@duckburg.com
 init.defaultbranch=main
 ```
 If not, set them up accordingly:
