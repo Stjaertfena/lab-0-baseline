@@ -6,7 +6,7 @@ Photo by <a href="https://unsplash.com/@carlevarino?utm_source=unsplash&utm_medi
 
 ## Purpose & Goal
 - [ ] Make sure all relevant Git tools are working on your machine
-  - [Git > v2.34.0][1]
+  - [Git > v2.40.0][1]
   - [gitk](http://git-scm.com/docs/gitk)
   - [git-gui](http://git-scm.com/docs/git-gui)
 - [ ] Verify auto complete for Git CLI is working
@@ -23,7 +23,7 @@ Prepping your machine with the tools that you need!
 1. Verify if Git is installed or not, and if you are running the [latest version](https://en.wikipedia.org/wiki/Git#Releases) using:
 ```
 $ git --version
-git version 2.34.1
+git version 2.40.0
 ```
 If you see above output you are all good and can continue to the next section. Other wise, you first need to install Git by downloading it from [here][1].
 
